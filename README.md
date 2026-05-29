@@ -9,6 +9,9 @@
 --- 
 
 ## 🌍 中转站列表
+- hub.codesuc.top -codesuc 团队运营，Claude codex 多号池负载均衡时刻保障90%可用性，逆向渠道0.25起，支持最新模型，有渠道监控，时刻掌握渠道情况，售后技术支持及时，可开发票，对公打款，注册赠送3$
+- main-new.codesuc.top -codesuc 团队运营，Claude codex 多号池负载均衡时刻保障90%可用性，逆向渠道0.25起，支持最新模型，有渠道监控，时刻掌握渠道情况，可开发票，对公打款，注册赠送3$
+- aieasyli.cn -codesuc 团队运营，Claude codex 多号池负载均衡时刻保障90%可用性，逆向渠道0.25起，支持最新模型，有渠道监控，时刻掌握渠道情况，可开发票，对公打款，注册赠送3$
 - https://nexus.apimf.top/ -GPT-5.5 仅0.1倍率（高缓存命中）｜Claude 4.7 仅0.08倍率｜稳定直连，高性价比可长期使用。
 - https://api.apinova.cc/ - 管渠 GPT PLUS 号池 、 满血5.5、 折扣后2毛，高缓存Claude 的平价平台、万兆宽带低延迟 每天分发数十亿Token、用过的都说好
 - https://unity2.ai - opus4.7、codex、gpt5.4、gemini3.1 都可以用，充值1元等于1刀。
